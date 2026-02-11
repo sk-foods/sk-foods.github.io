@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SK Foods | ঘি ও আচার</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #fffaf5; }
+    body { font-family: Arial, sans-serif; margin: 0; background: #f![ghee 2](https://github.com/user-attachments/assets/7ab12a75-9730-4258-a577-8e0e691fe52e)
+ffaf5; }
     header { background: #8b4513; color: white; padding: 15px; text-align: center; }
     section { padding: 20px; }
     .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
@@ -33,8 +34,8 @@
       <img src="https://images.unsplash.com/photo-1627485937980-221c88ac04c1" alt="Ghee">
       <h3>Pure Ghee | খাঁটি ঘি</h3>
       <p>100% খাঁটি দেশি ঘি। স্বাস্থ্যসম্মত ও ঘরোয়া।</p>
-      <p><strong>দাম:</strong> 1200 টাকা / কেজি</p>
-      <button class="order-btn" onclick="order('খাঁটি ঘি','1200 টাকা / কেজি')">Order on WhatsApp</button>
+      <p><strong>দাম:</strong> 2500 টাকা /ি</p>
+      <button class="order-btn" onclick="order('খাঁটি ঘি','2500 টাকা /)">Order on WhatsApp</button>
     </div>
 
     <div class="card">
@@ -55,6 +56,7 @@
     <input id="mobile" placeholder="মোবাইল নাম্বার" required />
     <input id="product" placeholder="প্রোডাক্টের নাম" required />
     <input id="price" placeholder="দাম" required />
+    <input id="adres"placeholder="পূর্ণ ঠিকানা" required />
     <button class="order-btn" type="submit">Send Order</button>
   </form>
 </section>
@@ -72,7 +74,7 @@
     window.scrollTo(0, document.body.scrollHeight);
   }
 
-  function sendOrder(e) {
+  function OrderN0w (e) {
     e.preventDefault();
     const name = document.getElementById('name').value;
     const mobile = document.getElementById('mobile').value;
