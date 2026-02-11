@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>SK Foods | ঘি ও আচার</title>
   <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #f![ghee 2](https://github.com/user-attachments/assets/7ab12a75-9730-4258-a577-8e0e691fe52e)
+    body { font-family: Arial, sans-serif; margin: 0; background: #f![ghee 2]
 ffaf5; }
     header { background: #8b4513; color: white; padding: 15px; text-align: center; }
     section { padding: 20px; }
@@ -55,8 +55,7 @@ ffaf5; }
     <input id="name" placeholder="আপনার নাম / Your Name" required />
     <input id="mobile" placeholder="মোবাইল নাম্বার" required />
     <input id="product" placeholder="প্রোডাক্টের নাম" required />
-    <input id="price" placeholder="দাম" required />
-    <input id="adres"placeholder="পূর্ণ ঠিকানা" required />
+    <input id="price" placeholder="পূর্ণ ঠিকানা" required />
     <button class="order-btn" type="submit">Send Order</button>
   </form>
 </section>
