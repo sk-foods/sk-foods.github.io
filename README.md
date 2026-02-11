@@ -45,7 +45,13 @@ ffaf5; }
       <p><strong>দাম:</strong> 400 টাকা / 500 গ্রাম</p>
       <button class="order-btn" onclick="order('ঘরোয়া আচার','400 টাকা / 500 গ্রাম')">Order on WhatsApp</button>
     </div>
-
+ <div class="card">
+    <img src="https://images.unsplash.com/photo-1627485937980-221c88ac04c1" alt="Ghee">
+      <h3>shodesh |িসন্দেশ</h3>
+      <p>100% খাঁটি সন্দেস। স্বাস্থ্যসম্মত ও ঘরোয়া।</p>
+      <p><strong>দাম:</strong> 250 টাকা /ি</p>
+      <button class="order-btn" onclick="order('খাঁটি শন্দেস','250 টাকা /)">Order on WhatsApp</button>
+    </div>
   </div>
 </section>
 
