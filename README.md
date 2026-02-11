@@ -51,7 +51,7 @@ ffaf5; }
 
 <section>
   <h2>Order Form</h2>
-  <form onsubmit="sendOrder(event)">
+  <form onsubmit="Order Now(event)">
     <input id="name" placeholder="আপনার নাম / Your Name" required />
     <input id="mobile" placeholder="মোবাইল নাম্বার" required />
     <input id="product" placeholder="প্রোডাক্টের নাম" required />
